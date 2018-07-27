@@ -12,11 +12,10 @@ body{
 h1 {
    font-family: 'Averia Libre', cursive;
    font-size: 80px;
-   background: transparent url('../img/web-background.jpg') no-repeat fixed 0 0 / cover;
+   background: transparent url('../img/web-background.jpg');
    margin-top: 0px;
    margin-bottom: 24px;
    text-align: center;
-   border: 1px solid black;
 }
 #album-container {
    display:flex;
@@ -32,8 +31,9 @@ h1 {
 }
 
 img {
-   width: 300px
+   width: 300px;
 }
+
 
 .album-info {
    font-size: 20px;
@@ -45,5 +45,13 @@ img {
 
 #album-review{
    margin: 28px;
+   margin-left: 115px;
+   margin-right: 115px;
    font-family:'Oswald', sans-serif;
+   font-size: 20px;
+}
+
+
+cite {
+   margin-top: 10px;
 }
