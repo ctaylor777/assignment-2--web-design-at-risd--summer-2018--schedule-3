@@ -3,6 +3,7 @@
    padding: 0;
 }
 
+
 body{
    width: 1024px;
    margin: auto;
@@ -20,15 +21,14 @@ h1 {
 #album-container {
    display:flex;
    font-family:'Oswald', sans-serif;
-   margin-top: 24px;
-   margin-left: 200px;
-   margin-right: 200px;
 }
 
 .album-img-artists {
-
    font-size: 20px;
    text-align: center;
+   margin-bottom: 28px;
+   margin-right: 50px;
+   margin-left: 200px;
 }
 
 img {
@@ -38,4 +38,12 @@ img {
 .album-info {
    font-size: 20px;
    text-align: center;
+   margin-bottom: 18px;
+   margin-left: 50px;
+   margin-right: 200px;
+}
+
+#album-review{
+   margin: 28px;
+   font-family:'Oswald', sans-serif;
 }
