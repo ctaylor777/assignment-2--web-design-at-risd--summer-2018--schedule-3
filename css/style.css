@@ -1,0 +1,17 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+body{
+   width: 1024px;
+   margin: auto;
+   background-color: light-blue;
+}
+
+h1 {
+   background: transparent url('../img/assignment2-background copy.jpg');
+   font-family: 'Lato';
+   font-size: 40px;
+   text-align: center;
+}
