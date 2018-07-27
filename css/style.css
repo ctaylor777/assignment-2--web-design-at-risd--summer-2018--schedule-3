@@ -6,12 +6,36 @@
 body{
    width: 1024px;
    margin: auto;
-   background-color: light-blue;
 }
 
 h1 {
-   background: transparent url('../img/assignment2-background copy.jpg');
-   font-family: 'Lato';
-   font-size: 40px;
+   font-family: 'Averia Libre', cursive;
+   font-size: 80px;
+   background: transparent url('../img/web-background.jpg') no-repeat fixed 0 0 / cover;
+   margin-top: 0px;
+   margin-bottom: 24px;
+   text-align: center;
+   border: 1px solid black;
+}
+#album-container {
+   display:flex;
+   font-family:'Oswald', sans-serif;
+   margin-top: 24px;
+   margin-left: 200px;
+   margin-right: 200px;
+}
+
+.album-img-artists {
+
+   font-size: 20px;
+   text-align: center;
+}
+
+img {
+   width: 300px
+}
+
+.album-info {
+   font-size: 20px;
    text-align: center;
 }
