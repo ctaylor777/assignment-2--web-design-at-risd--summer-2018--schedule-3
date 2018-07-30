@@ -3,62 +3,9 @@
    padding: 0;
 }
 
-
-body{
-   width: 1024px;
-   margin: auto;
-}
-
-h1 {
-   font-family: 'Averia Libre', cursive;
-   font-size: 80px;
-   background: transparent url('../img/web-background.jpg');
-   margin-top: 0px;
-   margin-bottom: 24px;
-   text-align: center;
-}
-#album-container {
-   display:flex;
-   font-family: 'Exo 2', sans-serif;
-   font-weight: 400;
-}
-
-.album-img-artists {
-   font-size: 20px;
-   text-align: center;
-   margin-bottom: 10px;
-   margin-right: 50px;
-   margin-left: 200px;
-}
-
-img {
-   width: 300px;
-   margin-bottom:18px;
-}
-
-
-.album-info {
-   font-size: 20px;
-   text-align: center;
-   margin-left: 50px;
-   margin-right: 200px;
-}
-
-#album-review{
-   margin: 28px;
-   margin-left: 115px;
-   margin-right: 115px;
-   font-family: 'Exo 2', sans-serif;
-   font-size: 20px;
-   text-align: center;
-   font-weight: 300;
-}
-
-p{
-   margin: 18px;
-   line-height: 22px;
-}
-
-cite {
-   margin-top: 10px;
+header {
+   width:953px;
+   height:204px;
+   margin-left: 111px;
+   border: 1px;
 }
