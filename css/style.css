@@ -1,20 +1,19 @@
-* {
-   margin: 0;
-   padding: 0;
+body {
+   margin-left: 66px;
+   margin-top: 69px;
+   font-family: 'Exo 2, sans serif';
 }
 
-header {
-   width:953px;
-   height:204px;
-   margin-left: 111px;
+header {margin-left: 69px;
 }
-
 h1 {
-   font-family:'Exo+2, sans serif';
+   width:523px;
+   height:147px;
+   margin-left: 41px;
    font-size: 70pt;
 }
 
-p {font-family: 'Exo+2, sans serif';
-   font-weight: 100;
-   font-size: 55pt;
+p {
+   font-weight:100;
+   font-size:66pt;
 }
