@@ -10,14 +10,13 @@ body {
 }
 
 h1 {
-   font-style: 'Exo 2', sans-serif;
    width:736px;
    height:147px;
    margin-left: 41px;
    font-size: 70pt;
 }
 
-p {
+header p {
    font-weight:100;
    font-size:66pt;
    font-weight:100;
