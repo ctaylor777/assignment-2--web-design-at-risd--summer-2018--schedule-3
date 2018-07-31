@@ -6,6 +6,8 @@
 body {
    margin-left: 66px;
    margin-top: 69px;
+   margin-right: 67px;
+   width: 1024px;
    font-family: 'Exo 2', sans-serif;
 }
 
@@ -19,23 +21,59 @@ h1 {
 }
 
 h2 {
-   width:430px;
+   width:1000px;
    font-weight:100;
-   font-size:66pt;
+   font-size:55pt;
    font-weight:100;
    margin-left:163px;
-   margin-top: 7px;
+   margin-top: 47px;
+}
+
+#album-container {
+   display:flex;
+   margin-top: 70px;
+   height:620px;
+   margin-bottom:60px;
 }
 
 .songs {
+   font-weight:100;
    margin-left:35px;
    font-size:24pt;
-   width: 380px;
+   width: 660px;
    height: 515px;
 }
 
 .img-artists{
+   text-align:center;
+   width:512px;
+}
+
+.artists {
    font-size:27pt;
    font-weight: 200;
-   margin-bottom: 150px;
+}
+
+img {
+   width:367px;
+   height:230px;
+   margin-bottom:45px;
+   margin-top: 93px;
+}
+
+#album-review-container {
+   margin-left:77px;
+   line-height:24px;
+}
+
+
+.album-review {
+   font-weight:200;
+   font-size: 26pt;
+   line-height: 25px;
+   padding-bottom:11px;
+}
+
+blockquote {
+   display: block;
 }
