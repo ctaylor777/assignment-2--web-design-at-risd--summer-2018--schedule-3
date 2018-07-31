@@ -69,11 +69,15 @@ img {
 
 .album-review {
    font-weight:200;
-   font-size: 26pt;
+   font-size: 16pt;
    line-height: 25px;
    padding-bottom:11px;
 }
 
-blockquote {
-   display: block;
+.album-review p{
+   padding-bottom:15px;
+}
+
+.album-review blockquote {
+   font-weight:200i;
 }
