@@ -13,15 +13,18 @@ h1 {
    width:736px;
    height:147px;
    margin-left: 41px;
+   margin-bottom: 7px;
    font-size: 70pt;
+   line-height: 89px
 }
 
-header p {
+h2 {
+   width:430px;
    font-weight:100;
    font-size:66pt;
    font-weight:100;
    margin-left:163px;
-   width: 427px;
+   margin-top: 7px;
 }
 
 .songs {
