@@ -1,91 +1,90 @@
 * {
-   margin: 0;
-   padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 #header {
-   height:300px;
+  height: 300px;
 }
 
 body {
-   margin-left: 66px;
-   margin-top: 69px;
-   margin-right: 67px;
-   width: 1024px;
-   font-family: 'Exo 2', sans-serif;
-   border-left:1px solid black;
-   background-color:lightblue;
+  margin-left: 66px;
+  margin-top: 69px;
+  margin-right: 67px;
+  width: 1024px;
+  font-family: "Exo 2", sans-serif;
+  border-left: 1px solid black;
+  background-color: #b7f0ff;
 }
 
 h1 {
-   width:736px;
-   height:198px;
-   margin-left: 41px;
-   margin-bottom: 7px;
-   font-size: 70pt;
-   line-height: 89px
+  width: 736px;
+  height: 198px;
+  margin-left: 41px;
+  margin-bottom: 7px;
+  font-size: 70pt;
+  line-height: 89px;
 }
 
 h2 {
-   width:1000px;
-   font-weight:100;
-   font-size:55pt;
-   font-weight:100;
-   margin-left:163px;
-   margin-top: 14px;
+  width: 1000px;
+  font-weight: 100;
+  font-size: 55pt;
+  font-weight: 100;
+  margin-left: 163px;
+  margin-top: 14px;
 }
 
 #album-container {
-   display:flex;
-   margin-top: 28px;
-   height:620px;
-   margin-bottom:60px;
+  display: flex;
+  margin-top: 28px;
+  height: 620px;
+  margin-bottom: 60px;
 }
 
 .songs {
-   font-weight:100;
-   margin-left:35px;
-   font-size:24pt;
-   width: 660px;
-   height: 515px;
+  font-weight: 100;
+  margin-left: 35px;
+  font-size: 24pt;
+  width: 660px;
+  height: 515px;
 }
 
-.img-artists{
-   text-align:center;
-   width:512px;
+.img-artists {
+  text-align: center;
+  width: 512px;
 }
 
 img {
-   width:367px;
-   height:230px;
-   margin-bottom:45px;
-   margin-top: 93px;
+  width: 367px;
+  height: 230px;
+  margin-bottom: 45px;
+  margin-top: 93px;
 }
 
 .artists {
-   font-size:27pt;
-   font-weight: 200;
+  font-size: 27pt;
+  font-weight: 200;
 }
 
 #album-review-container {
-   margin-left:77px;
-   line-height:24px;
-   border-left:1px solid black;
+  margin-left: 77px;
+  line-height: 24px;
+  border-left: 1px solid black;
 }
-
 
 .album-review {
-   font-weight:200;
-   font-size: 16pt;
-   line-height: 25px;
-   padding-bottom:11px;
+  font-weight: 200;
+  font-size: 16pt;
+  line-height: 25px;
+  padding-bottom: 11px;
 }
 
-.album-review p{
-   padding-bottom:15px;
+.album-review p {
+  padding-bottom: 15px;
 }
 
 .album-review blockquote {
-   font-weight:200;
-   font-style: italic;
+  font-weight: 200;
+  font-style: italic;
 }
