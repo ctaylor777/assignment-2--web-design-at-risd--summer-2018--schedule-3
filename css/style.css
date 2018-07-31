@@ -64,6 +64,7 @@ img {
 #album-review-container {
    margin-left:77px;
    line-height:24px;
+   border-left:1px black;
 }
 
 
@@ -79,5 +80,6 @@ img {
 }
 
 .album-review blockquote {
-   font-weight:200i;
+   font-weight:200;
+   font-style: italic;
 }
