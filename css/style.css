@@ -7,8 +7,6 @@
    height:300px;
 }
 
-
-
 body {
    margin-left: 66px;
    margin-top: 69px;
@@ -16,9 +14,7 @@ body {
    width: 1024px;
    font-family: 'Exo 2', sans-serif;
    border-left:1px solid black;
-   background-image:url('../images/background-image.jpg');
-   background-repeat: no-repeat;
-   background-size: cover;
+   background-color:lightblue;
 }
 
 h1 {
@@ -59,16 +55,16 @@ h2 {
    width:512px;
 }
 
-.artists {
-   font-size:27pt;
-   font-weight: 200;
-}
-
-.album-image {
+img {
    width:367px;
    height:230px;
    margin-bottom:45px;
    margin-top: 93px;
+}
+
+.artists {
+   font-size:27pt;
+   font-weight: 200;
 }
 
 #album-review-container {
