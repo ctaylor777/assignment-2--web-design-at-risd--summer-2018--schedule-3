@@ -65,7 +65,7 @@ img {
 }
 
 .artists {
-  font-size: 27pt;
+  font-size: 21pt;
   font-weight: 200;
 }
 
@@ -91,4 +91,8 @@ img {
   font-style: italic;
   font-size: 19pt;
   line-height:42px;
+}
+
+.citation {
+   font-size: 18pt
 }
