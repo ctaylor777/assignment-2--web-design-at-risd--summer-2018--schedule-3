@@ -1,13 +1,17 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
 body {
    margin-left: 66px;
    margin-top: 69px;
-   font-family: 'Exo 2, sans serif';
+   font-family: 'Exo 2', sans-serif;
 }
 
-header {margin-left: 69px;
-}
 h1 {
-   width:523px;
+   font-style: 'Exo 2', sans-serif;
+   width:736px;
    height:147px;
    margin-left: 41px;
    font-size: 70pt;
@@ -16,4 +20,20 @@ h1 {
 p {
    font-weight:100;
    font-size:66pt;
+   font-weight:100;
+   margin-left:163px;
+   width: 427px;
+}
+
+.songs {
+   margin-left:35px;
+   font-size:24pt;
+   width: 380px;
+   height: 515px;
+}
+
+.img-artists{
+   font-size:27pt;
+   font-weight: 200;
+   margin-bottom: 150px;
 }
